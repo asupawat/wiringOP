@@ -67,7 +67,7 @@
 /************** OrangePi H3 ***********************/
 #if CONFIG_ORANGEPI_ZERO
 #define GPIOA_BASE                         (0x01C20000)
-#define GPIO_NUM                           (0xCC)
+#define GPIO_NUM                           (0xD0)
 #define GPIO_BASE_MAP                      (0x01C20800)
 #define MEM_INFO                           (1024)
 #define GPIOL_BASE                         (0x01F02c00)
